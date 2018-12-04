@@ -1,2 +1,2 @@
 echo "hello from github "
-echo "githook success"
+echo "githook is nor success"
